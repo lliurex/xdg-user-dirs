@@ -1,7 +1,0 @@
-gnome:NextUpstreamVersion=1~
-gnome:NextVersion=1~
-gnome:UpstreamVersion=0~
-gnome:Version=0~
-shlibs:Depends=libc6 (>= 2.34)
-misc:Depends=
-misc:Pre-Depends=
